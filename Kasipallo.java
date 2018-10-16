@@ -1,3 +1,9 @@
+/* Viikkoharjoitus 1, tehtävä 3. 
+ * 
+ * Lausekielinen ohjelmointi II, syksy 2016. 
+ * Pia Rantanen, Rantanen.Pia.M@student.uta.fi 
+ * 
+ */
 
 public class Kasipallo
 {
